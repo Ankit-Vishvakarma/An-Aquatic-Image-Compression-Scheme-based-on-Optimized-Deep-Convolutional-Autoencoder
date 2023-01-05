@@ -1,1 +1,1 @@
-# Image-Compression-Using-AutoEncoder
+# An Aquatic Image Compression Scheme based on Optimized Deep Convolutional Autoencoder
